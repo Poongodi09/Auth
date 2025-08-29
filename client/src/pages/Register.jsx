@@ -26,7 +26,7 @@ const Register = () => {
 
   return (
     <div className="auth-container">
-      <h2>Registers</h2>
+      <h2>Register</h2>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
